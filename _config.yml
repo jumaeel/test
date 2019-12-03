@@ -1,13 +1,12 @@
-title:  blog.willbadart.com
-author: Will Badart
-email: wbadart@live.com
+title:  Jumail.co
+author: Jumail Mohamed
+email: Jumaelmohamed@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the blog of <a href="https://willbadart.com" target="_blank">Will Badart<i class="fa fa-external-link"></i></a>.
-cclicense: by-nc
+  This is the blog of Jumail Mohamed
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.willbadart.com"
-github_username:  wbadart
+url: "https://jumail.co"
+github_username:  jumaeel
 
 paginate: 5
 excerpt_separator: <!-- MORE -->
